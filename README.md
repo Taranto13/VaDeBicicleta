@@ -8,11 +8,19 @@ Terá comunicação entre backend e frontend (Arquitetura distribuída) e armaze
 Tecnologias Utilizadas:
 
 Linguagem: Python (Orientado a Objetos)
+
 Framework Backend: Flask
+
 Banco de Dados: PostgreSQL (armazenamento seguro e transacional)
+
 ORM: SQLAlchemy (para simplificar o acesso ao banco e facilitar migrações)
+
 Migrações de Banco: Flask-Migrate
+
 Frontend: React (ou Vue.js), para interface do usuário e interação com o backend
+
 API: RESTful para comunicação entre frontend e backend
+
 Autenticação: JWT (JSON Web Tokens) para autenticação de usuários
+
 Segurança: Criptografia de senhas e CORS configurado para segurança das requisições
