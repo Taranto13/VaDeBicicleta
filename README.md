@@ -24,3 +24,6 @@ API: RESTful para comunicação entre frontend e backend
 Autenticação: JWT (JSON Web Tokens) para autenticação de usuários
 
 Segurança: Criptografia de senhas e CORS configurado para segurança das requisições
+
+
+Cigarro de menta
